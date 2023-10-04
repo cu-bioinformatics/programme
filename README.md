@@ -1,2 +1,4 @@
-# programme
-Information regarding the bioinformatics study programme
+# Praktické informace ke studijnímu programu Bioinformatika na Univerzitě Karlově
+
+[Bakalářský program](bc.md)
+[Magisterský program](msc.md)
