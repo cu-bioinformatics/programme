@@ -1,4 +1,6 @@
 # Praktické informace ke studijnímu programu Bioinformatika na Univerzitě Karlově
 
-[Bakalářský program](bc.md)
-[Magisterský program](msc.md)
+Obecné informace, lze najít na [webových stránkách programu](https://bioinformatics.cuni.cz/program/).
+
+- [Bakalářský program](bc.md)
+- [Magisterský program](msc.md)
