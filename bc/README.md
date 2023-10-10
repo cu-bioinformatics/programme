@@ -43,6 +43,6 @@ Důraz při zkoušení je kladen na porozumění příslušné problematice spí
 
 #### Okruhy a témata
 
-Okruhy a konkrétní témata jsou k nahhlédnutí v [separátním dokumentu](https://docs.google.com/document/d/13Nlk4SBK_qpxuzQ02XzAORyi3PyyhaOVmzlE386pArU/edit?usp=sharing).
+Okruhy a konkrétní témata jsou k nahhlédnutí na [separátní stránce](state-exam-topics.md).
 
   

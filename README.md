@@ -2,5 +2,5 @@
 
 Obecné informace, lze najít na [webových stránkách programu](https://bioinformatics.cuni.cz/program/).
 
-- [Bakalářský program](bc.md)
-- [Magisterský program](msc.md)
+- [Bakalářský program](bc/README.md)
+- [Magisterský program](msc/bc/README.md)
