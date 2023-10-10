@@ -1,5 +1,7 @@
 # Informace k předmětům
- - 
+
+##### [Bioinformatický projekt (NPRG061)]([NPRG061](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NPRG061))
+Bioinformatický projekt si zapisují pouze ti studenti, kteří se rozhodnou pro implementační bakalářskou práci (viz. níže). Smyslem předmětu je vyrovnat zvýšenou časovou investici do implementační bakalářské práce, protože ta musí obsahovat jak implementační tak rešeršní část. Studentům, kteří si zapíšou bioinformatický projekt, zapíše zápočet vedoucí práce ve chvíli, kdy to uzná za vhodné. Pokud vedoucí nemá právo zápisu do SISu (externí vedoucí), pak stačí, aby napsal garantovi předmětu email s žádostí o zapsání záopčtu danému studentovi.
 
 # Bakalářská práce
 
@@ -32,7 +34,15 @@ Téma bakalářská práce by měla být ve shodě se školitelem zadáno do SIS
 ## Obhajoba
   
 # Státní závěrečná zkouška
-- Průběh
-- Okruhy a témata
+
+#### Průběh
+
+Student dostává 4 otázky ze tří zkušebních okruhů - matematika a informatika, biologie, bioinformatika. Matematika a informatika jsou sice formálně jeden okruh, ale fakticky se chovají jako separátní okruhy a proto student dostává jednu otázku z matematiky a jednu z informatiky. Vždy je položena otázka z daného okruhu a student rovnou odpovídá. Z každého faktického okruhu student dostane známku. Tyto známky komise pak agreguje do výsledné známky. Je tendence jednotlivé známky průměrovat, ale nemusí to tak nutně být. Speciálním případem vyjímky je pravidlo, že pokud student neprospěje z libovolného faktického okruhu, pak nemůže prospět ze zkoušky, nezávisle navýkonech v ostatních okruzích.
+
+Důraz při zkoušení je kladen na porozumění příslušné problematice spíše než na slepém zapamatování si jednotlivých definic a pojmů. Na druhou stranu je zároveň kladen důraz na schopnost prezentovat svoje znalosti formálním způsobem, kdy hodnocení odpovědi není závislé na interpretaci toho, co student řekl. Tedy jde o to, aby nebylo třeba znát správnou odpověď na otázku k tomu, aby bylo možné studentovy odpověď dekódovat (což se stává častěji, než by se mohlo zdát).
+
+#### Okruhy a témata
+
+Okruhy a konkrétní témata jsou k nahhlédnutí v [separátním dokumentu](https://docs.google.com/document/d/13Nlk4SBK_qpxuzQ02XzAORyi3PyyhaOVmzlE386pArU/edit?usp=sharing).
 
   
