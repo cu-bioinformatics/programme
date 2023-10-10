@@ -1,7 +1,8 @@
 # Informace k předmětům
 
-##### [Bioinformatický projekt (NPRG061)]([NPRG061](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NPRG061))
+#### Bioinformatický projekt ([NPRG061](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NPRG061))
 Bioinformatický projekt si zapisují pouze ti studenti, kteří se rozhodnou pro implementační bakalářskou práci (viz. níže). Smyslem předmětu je vyrovnat zvýšenou časovou investici do implementační bakalářské práce, protože ta musí obsahovat jak implementační tak rešeršní část. Studentům, kteří si zapíšou bioinformatický projekt, zapíše zápočet vedoucí práce ve chvíli, kdy to uzná za vhodné. Pokud vedoucí nemá právo zápisu do SISu (externí vedoucí), pak stačí, aby napsal garantovi předmětu email s žádostí o zapsání záopčtu danému studentovi.
+
 
 # Bakalářská práce
 
@@ -15,7 +16,7 @@ Témata (více či méně aktualizovaná) bakalářských projektů lze nalézt 
 Bakalářská práce je kvalifikační prací, jejíž sepsání a obhájení před komisí je nutnou podmínkou pro úspěšné ukončení bakalářského studia oboru Bioinformatika.
 Bakalářská práce může mít dvě formy.
 
-V první formě, tzv. _rešeršní diplomové práci_, má student/ka prokázat, že je schopný na předem zadané téma zpracovat literární rešerši, – tzn, že je schopen vyhledat relevantní literaturu, odborné články přečíst, pochopit a vytvořit jejich shrnutí psanou formou., které věrně popisuje jejich obsah anebo dokonce na základě tohoto shrnutí přináší nový pohled na studovanou oblast či dokonce nové poznatky.
+V první formě, tzv. _rešeršní bakalářské práci_, má student/ka prokázat, že je schopný na předem zadané téma zpracovat literární rešerši, – tzn, že je schopen vyhledat relevantní literaturu, odborné články přečíst, pochopit a vytvořit jejich shrnutí psanou formou., které věrně popisuje jejich obsah anebo dokonce na základě tohoto shrnutí přináší nový pohled na studovanou oblast či dokonce nové poznatky.
 
 Druhou formou bakalářské práce je menší samostatný vědecký projekt, tzv. _implementační bakalářská práce_, tj. menší softwarový nástroj, implementace více nástrojů do funkčního celku, srovnání existujících nástrojů, netriviální datová analýza apod... Bakalářská práce pak stále obsahuje literární úvod, kde student/ka  popíše současný stav poznání na základě existující literatury (literární rešerše je tedy i zde nedílnou součástí výsledné práce), vytýčí cíl a popíše jakými prostředky k němu dospěl a své výsledky diskutuje a konfrontuje s existující literaturou.
 
@@ -32,6 +33,17 @@ Podmínkou pro implementační bakalářské práce je zveřejnění data a kód
 Téma bakalářská práce by měla být ve shodě se školitelem zadáno do SIS nejpozději okolo konce listopadu v posledním ročníku bakalářského studia student(a)/ky. Práce je poté schválena garantem studijního programu.
 
 ## Obhajoba
+
+Obhajoba bakalářské práce trvá zhruba 45 minut a probíhá následujícím způsobem:
+
+- Prezentace výsledků práce formou 15 minutové prezentace 
+- Vyjádření vedoucího k výsledkům práce a práci studenta na projektu obecně
+- Vyjádření oponentů
+    - Zde se student vyjadřuje k připomínkám oponentů
+- Diskuze s komisí a přítomnými hosty
+
+Odpovědi na připomínky oponentů, které se vyskytnou v jejich posudku, lze (a je vhodné) připravit jako slidy za samotnou prezentací.
+
   
 # Státní závěrečná zkouška
 
