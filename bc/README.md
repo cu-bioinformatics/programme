@@ -24,9 +24,21 @@ Druhou formou bakalářské práce je menší samostatný vědecký projekt, tzv
 
 Bakalářská práce, která je literární rešerší by měla mít rozsah zhruba do 30 stran A4 + citace. Velikost písma 12 a řádkování 1,5. Bakalářská práce, která popisuje i samostatný vědecký projekt by měla být do 35 stran A4 + citace (to neznamená, že popis projektu má být jen na 5 stran).
 
-Bakalářská práce je veřejně dostupná a dostupná by měla být i data z zdrojové kódy, které během práce vzniknou. Pokud by to bylo v rozporu se zákony ČR (typicky pacientská data) či komerčními zájmy autora je možné učinit části práce na požádání neveřejné  - oponent práce by však měl mít přístup ke všem datům a vzniklým programům, aby mohl práci objektivně posoudit. V případě, že budete chtit učinit části práce neveřejné či v případě pochyb kontaktujte garanta oboru.
+Bakalářská práce je veřejně dostupná a dostupná by měla být i data z zdrojové kódy, které během práce vzniknou.
+Specificky tedy podmínkou pro implementační bakalářské práce je zveřejnění data a kódu na Githubu či jiném veřejně dostupném uložišti (např. [MFF fakultní GitLab](https://gitlab.mff.cuni.cz/)) – supplementary data však musí být uložena také v SIS, aby nebyla univerzita při jejich zveřejňování závislá na dalších subjektech.
+Pokud by to bylo v rozporu se zákony ČR (typicky pacientská data) či komerčními zájmy autora je možné učinit části práce na požádání neveřejné  - oponent práce by však měl mít přístup ke všem datům a vzniklým programům, aby mohl práci objektivně posoudit. V případě, že budete chtit učinit části práce neveřejné či v případě pochyb kontaktujte garanta oboru.
 
-Podmínkou pro implementační bakalářské práce je zveřejnění data a kódu na Githubu či jiném veřejně dostupném uložišti (např. [MFF fakultní GitLab](https://gitlab.mff.cuni.cz/)) – supplementary data však musí být uložena také v SIS, aby nebyla univerzita při jejich zveřejňování závislá na dalších subjektech.
+#### Formát textové části práce
+
+Textovou část práce lze psát v libovolném textovém editoru, který umožňuje export do PDF. Prosím dbejte na to, aby výsledné PDF, které bude vkládáno do SIS, bylo validní. Před odevzdáním je vhodné se tedy řídit univerzitním návodem na [uložení kvalifikační práce](https://cuni.cz/UK-7987.html). Specificky pak je možné využít [MFF validátor](https://github.com/mff-cuni-cz/cuni-thesis-validator), který umožňuje validaci souborů s ohledem na univerzitní profil.
+
+Nejčastěji je práce zpracována ve WYSIVYG editoru Microsoft Word nebo jeho volných alternativách jako např. LibreOffice Writer, nebo v LaTexu. Subjektivně sazba matematiky vypadá výrazně lépe v LaTexu, než např. ve Wordu. Níže jsou odkázány šablony práce pro Word a Latex. Vzhledem k tomu, že šablony vznikly z různých základů (Word - PřF, LaTex - MFF), informace v nich se částečně liší. Na rekonsiliaci pracujeme, nicméně pokud budete postupova podle instrukcí v libovolné z těchto šablon, práce bude formálně v pořádku.
+
+- [Word](docs/template.docx)
+- [LaTex](https://github.com/exaexa/better-mff-thesis) 
+    - Tuto šablonu lze využít jak pro bakalářské i magisterská práce vzniklé na MFF tak na PřF. Stačí nastavit příslušné makra v [metadata.tex](https://github.com/exaexa/better-mff-thesis/blob/master/metadata.tex). 
+    - Vemte na vědomí, že tato šablona byla původně tvořena pro práce na MFF, které majímohou míž trochu jinou strukturu, obzvláště v případě rešeršní bakalářské práce. Návodné texty berte tedy s rezervou a berte je jako pomocné. Například doporučení ohledně délky jednotlivých sekcí nemusí být relevantní, protože na MFF bývá 30 stran spodní hranice délky bakalářské práce. Hlavní arbitr s ohledem na strukturu práce by měl být hlavně vedoucí práce.
+
 
 ## Harmonogram
 
@@ -39,10 +51,10 @@ Obhajoba bakalářské práce trvá zhruba 45 minut a probíhá následujícím 
 - Prezentace výsledků práce formou 15 minutové prezentace 
 - Vyjádření vedoucího k výsledkům práce a práci studenta na projektu obecně
 - Vyjádření oponentů
-    - Zde se student vyjadřuje k připomínkám oponentů
+    - Student má šanci po každém vyjádření oponenta regovat na připomínky daného oponenta
 - Diskuze s komisí a přítomnými hosty
 
-Odpovědi na připomínky oponentů, které se vyskytnou v jejich posudku, lze (a je vhodné) připravit jako slidy za samotnou prezentací.
+Reakce na připomínky oponentů, které se vyskytnou v jejich posudku, lze (a je vhodné) připravit jako slidy za samotnou prezentaci.
 
   
 # Státní závěrečná zkouška
