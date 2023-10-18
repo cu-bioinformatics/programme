@@ -20,9 +20,11 @@ V první formě, tzv. _rešeršní bakalářské práci_, má student/ka prokáz
 
 Druhou formou bakalářské práce je menší samostatný vědecký projekt, tzv. _implementační bakalářská práce_, tj. menší softwarový nástroj, implementace více nástrojů do funkčního celku, srovnání existujících nástrojů, netriviální datová analýza apod... Bakalářská práce pak stále obsahuje literární úvod, kde student/ka  popíše současný stav poznání na základě existující literatury (literární rešerše je tedy i zde nedílnou součástí výsledné práce), vytýčí cíl a popíše jakými prostředky k němu dospěl a své výsledky diskutuje a konfrontuje s existující literaturou.
 
-#### Rozsah práce
+#### Rozsah textové části práce
 
 Bakalářská práce, která je literární rešerší by měla mít rozsah zhruba do 30 stran A4 + citace. Velikost písma 12 a řádkování 1,5. Bakalářská práce, která popisuje i samostatný vědecký projekt by měla být do 35 stran A4 + citace (to neznamená, že popis projektu má být jen na 5 stran).
+
+#### Zdrojový kód práce
 
 Bakalářská práce je veřejně dostupná a dostupná by měla být i data z zdrojové kódy, které během práce vzniknou.
 Specificky tedy podmínkou pro implementační bakalářské práce je zveřejnění data a kódu na Githubu či jiném veřejně dostupném uložišti (např. [MFF fakultní GitLab](https://gitlab.mff.cuni.cz/)) – supplementary data však musí být uložena také v SIS, aby nebyla univerzita při jejich zveřejňování závislá na dalších subjektech.
@@ -37,7 +39,7 @@ Nejčastěji je práce zpracována ve WYSIVYG editoru Microsoft Word nebo jeho v
 - [Word](docs/template.docx)
 - [LaTex](https://github.com/exaexa/better-mff-thesis) 
     - Tuto šablonu lze využít jak pro bakalářské i magisterská práce vzniklé na MFF tak na PřF. Stačí nastavit příslušné makra v [metadata.tex](https://github.com/exaexa/better-mff-thesis/blob/master/metadata.tex). 
-    - Vemte na vědomí, že tato šablona byla původně tvořena pro práce na MFF, které majímohou míž trochu jinou strukturu, obzvláště v případě rešeršní bakalářské práce. Návodné texty berte tedy s rezervou a berte je jako pomocné. Například doporučení ohledně délky jednotlivých sekcí nemusí být relevantní, protože na MFF bývá 30 stran spodní hranice délky bakalářské práce. Hlavní arbitr s ohledem na strukturu práce by měl být hlavně vedoucí práce.
+    - Vemte na vědomí, že tato šablona byla původně tvořena pro práce na MFF, které mohou mít trochu jinou strukturu, obzvláště v případě rešeršní bakalářské práce. Návodné texty berte tedy s rezervou a berte je jako pomocné. Například doporučení ohledně délky jednotlivých sekcí nemusí být relevantní, protože na MFF bývá 30 stran spodní hranice délky bakalářské práce. Hlavní arbitr s ohledem na strukturu práce by měl být hlavně vedoucí práce.
 
 
 ## Harmonogram
@@ -55,7 +57,6 @@ Obhajoba bakalářské práce trvá zhruba 45 minut a probíhá následujícím 
 - Diskuze s komisí a přítomnými hosty
 
 Reakce na připomínky oponentů, které se vyskytnou v jejich posudku, lze (a je vhodné) připravit jako slidy za samotnou prezentaci.
-
   
 # Státní závěrečná zkouška
 
@@ -67,6 +68,6 @@ Důraz při zkoušení je kladen na porozumění příslušné problematice spí
 
 #### Okruhy a témata
 
-Okruhy a konkrétní témata jsou k nahhlédnutí na [separátní stránce](state-exam-topics.md).
+Okruhy a konkrétní témata jsou k nahlédnutí na [separátní stránce](state-exam-topics.md).
 
   
