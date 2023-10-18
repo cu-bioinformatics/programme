@@ -13,13 +13,13 @@ V rámci magisterského programu existují 2 předměty, které jsou zajišťov�
 
 ## Cíl
 
-Na rozdíl od bakalářské práce, je každá diplomová prace implementační, tj. řeší nějaký problém. Cílem je vždy vývoj algoritmu, softwaru nebo softwarové pipeliny (obecně dále říkejme nástroj). Součástí práce je pak analýza dat za pomoci vyvinutého nástroje, včetně vyhodnocení a interpretace výsledků. Je nutné tedy se zajímat a dobře pochopit biologický problém, který motivuje vývoj nového nástroje a v kontextu tohoto problém nástroj vyhodnotit. Je také třeba vysvětlit, jak se vyvinutý nástroj vztahuje k existujícím nástrojům v dané oblasti (tj. vyvinout něco jenom pro to, aby něco vzniklo není cílem diplomové práce). Zároveň je třeba zdůraznit, že validním výstupem práce nejsou pouze pozitivní výsledky, ale i negativní výsledky, které je ovšem třeba doplnit interpretací (to platí ostatně i o pozitivních výsledcích). 
+Na rozdíl od bakalářské práce, je každá diplomová prace implementační, tj. řeší nějaký problém. Problém je vhodné přesně definovat. Cílem je vždy vývoj algoritmu, softwaru nebo softwarové pipeliny (obecně dále říkejme nástroj). Součástí práce je pak analýza dat za pomoci vyvinutého nástroje, včetně vyhodnocení a interpretace výsledků. Je nutné tedy se zajímat a dobře pochopit biologický problém, který motivuje vývoj nového nástroje a v kontextu tohoto problém nástroj vyhodnotit. Je také třeba vysvětlit, jak se vyvinutý nástroj vztahuje k existujícím nástrojům v dané oblasti (tj. vyvinout něco jenom pro to, aby něco vzniklo není cílem diplomové práce). Zároveň je třeba zdůraznit, že validním výstupem práce nejsou pouze pozitivní výsledky, ale i negativní výsledky, které je ovšem třeba doplnit interpretací (to platí ostatně i o pozitivních výsledcích). 
 
-## Zásady pro vypracování bakalářské práce
+## Zásady pro vypracování magisterské práce
 
 #### Rozsah textové části práce
 
-Rozsah diplomové práce není omezený. Typicky práce mívají 60-80 A4 stran + citace, ale není to pravidlo.
+Rozsah diplomové práce není omezený. Typicky práce mívají 60-80 A4 stran + citace, ale není to pravidlo. Práce obvykle obsahuje literární přehled studované tématiky, popis použitých dat (je vhodné evidovat unikátní identifikátory pozítých dat, aby bylo možné data reprodukovat), popis použitých metod. Významnou součástí jsou výsledky, které popisují výsledky pozitivní i negativní. Na výsledky navazuje obsáhlá diskuse a to jak diskuse toho, kde by mohly být možné vysvětlení vašich výsledků (zvlášť pokud jsou překvapivé), tak diskuse s existující literaturou. V diskusi autorka/autor prokáží, že jsou schopni kriticky zjodnotit výsledky své práce. Práci zakončuje shrnutí odvedené práce s popisem možného pokračování projektu.
 
 
 #### Témata, zdrojový kód a formát práce
