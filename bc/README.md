@@ -1,7 +1,7 @@
 # Informace k předmětům
 
 #### Bioinformatický projekt ([NPRG061](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NPRG061))
-Bioinformatický projekt si zapisují pouze ti studenti, kteří se rozhodnou pro implementační bakalářskou práci (viz. níže). Smyslem předmětu je vyrovnat zvýšenou časovou investici do implementační bakalářské práce, protože ta musí obsahovat jak implementační tak rešeršní část. Studentům, kteří si zapíšou bioinformatický projekt, zapíše zápočet vedoucí práce ve chvíli, kdy to uzná za vhodné. Pokud vedoucí nemá právo zápisu do SISu (externí vedoucí), pak stačí, aby napsal garantovi předmětu email s žádostí o zapsání záopčtu danému studentovi.
+Bioinformatický projekt si zapisují pouze ti studenti, kteří se rozhodnou pro implementační bakalářskou práci (viz. níže). Smyslem předmětu je vyrovnat zvýšenou časovou investici do implementační bakalářské práce, protože ta musí obsahovat jak implementační tak rešeršní část. Studentům, kteří si zapíšou bioinformatický projekt, zapíše zápočet vedoucí práce ve chvíli, kdy to uzná za vhodné. Pokud vedoucí nemá právo zápisu do SISu (externí vedoucí), pak stačí, aby napsal garantovi předmětu email s žádostí o zapsání zápočtu danému studentovi.
 
 
 # Bakalářská práce
