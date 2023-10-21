@@ -6,4 +6,4 @@ Obecné informace, lze najít na [webových stránkách programu](https://bioinf
 - [Magisterský program](msc/README.md)
 
 ____
-Pokud vám tu nějaká informace chybí, vytvořte [issue](issues/new) a my příslušnou informaci dodáme.
+Pokud vám tu nějaká informace chybí, vytvořte [issue](../../issues/new) a my příslušnou informaci dodáme.
