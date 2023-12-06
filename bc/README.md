@@ -9,7 +9,7 @@ Bioinformatický projekt si zapisují pouze ti studenti, kteří se rozhodnou pr
 ## Témata
 Témata (více či méně aktualizovaná) bakalářských projektů lze nalézt v [dedikovaném dokumentu](https://docs.google.com/document/d/1NRxiAwykwEPBQh3o5wOuLf-ejntzMWIBgqn3NiZeTUU/edit?usp=sharing), ale obecně lze oslovit libovolného školitele. Další vhodné místo, kde nalézt téma bakalářských a magisterských prací je na prezentacích výzkumných skupin v rámci [bioinformatického semináře](https://bioinformatics.cuni.cz/seminar/) pro magisterské studenty, kdy na začátku roku jsou jedna nebo dvě přednášky věnovány prezentaci výzkumných skupin a výzkumných témat, které lze řešit. Tyto prezentace bývají v podstatě up-to-date témata z dokumentu odkazovaného výše.
 
-## Vypsání bakalářské práce
+## Vypsání práce
 V případě, že je vedoucí práce z PřF UK, případně má v SIS roli asociovanou s PřF, vypíše práci v SISu, přiřadí studenta k práci a tím je formalitám učiněno za dost.
 
 V případě, kdy je vedoucí práce externí (např. z AVČR, z firmy, včetně zahraničních institucí), pak musí téma práce a její údaje nutné pro vypsání v SISu poslat Marianu Novotnému. Ten práci vypíše v SISu pod Katedrou buněčné biologie, k práci přiřadí příslušnou dvojici vedoucího a studenta.
