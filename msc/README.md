@@ -15,6 +15,10 @@ V rámci magisterského programu existují 2 předměty, které jsou zajišťov�
 
 Na rozdíl od bakalářské práce, je každá diplomová prace implementační, tj. řeší nějaký problém. Problém je vhodné přesně definovat. Cílem je vždy vývoj algoritmu, softwaru nebo softwarové pipeliny (obecně dále říkejme nástroj). Součástí práce je pak analýza dat za pomoci vyvinutého nástroje, včetně vyhodnocení a interpretace výsledků. Je nutné tedy se zajímat a dobře pochopit biologický problém, který motivuje vývoj nového nástroje a v kontextu tohoto problém nástroj vyhodnotit. Je také třeba vysvětlit, jak se vyvinutý nástroj vztahuje k existujícím nástrojům v dané oblasti (tj. vyvinout něco jenom pro to, aby něco vzniklo není cílem diplomové práce). Zároveň je třeba zdůraznit, že validním výstupem práce nejsou pouze pozitivní výsledky, ale i negativní výsledky, které je ovšem třeba doplnit interpretací (to platí ostatně i o pozitivních výsledcích). 
 
+## Vypsání práce
+
+Pro vypsání diplomové práce platí totéž co pro bakalářskou práci s tím rozdílem, že školitel může být pouze osoba s doktorátem.
+
 ## Zásady pro vypracování magisterské práce
 
 #### Rozsah textové části práce
