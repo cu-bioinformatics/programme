@@ -14,7 +14,7 @@ V případě, že je vedoucí práce z PřF UK, případně má v SIS roli asoci
 
 V případě, kdy je vedoucí práce externí (např. z AVČR, z firmy, včetně zahraničních institucí), pak musí téma práce a její údaje nutné pro vypsání v SISu poslat Marianu Novotnému. Ten práci vypíše v SISu pod Katedrou buněčné biologie, k práci přiřadí příslušnou dvojici vedoucího a studenta.
 
-V každém případě platí, že školitel musí mít alespoň magisterský titul.
+V každém případě platí, že školitel musí mít alespoň magisterský titul. Dále vždy platí, že práce je formálně vypsána pod katedrou buněčné biologie.
 
 ## Zásady pro vypracování bakalářské práce
 
